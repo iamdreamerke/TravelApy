@@ -1,0 +1,6 @@
+#advertisement{
+    box-shadow: 10px 8px 8px 4px gray; /*glowing effect*/
+}
+#advertisement:hover,#accounting:hover,#payment:hover{
+    background-color: grey;
+}
